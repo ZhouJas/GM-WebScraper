@@ -19,7 +19,7 @@ headers = {
   'Sec-Fetch-Mode': 'cors',
   'Sec-Fetch-Dest': 'empty',
   'accept-language': 'en-CA,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-  'Cookie': 'TSa6897428027=08aac06b63ab2000293fbcaec2c673a5707fe8a5403a15381216805b982fa9a570d61984acb47a9b084131da131130000a980575152bf9d033e715e3de3bfd861c9ad70efaffd1b499a5002c916fd54dde4cdb81b6331bed00ecd24575113011; ipe.35282.pageViewedCount=5; ipe.35282.pageViewedDay=15; ipe_35282_fov=%7B%22numberOfVisits%22%3A1%2C%22sessionId%22%3A%22b9cb1dc4-be36-81b8-2959-60cf2cbafddd%22%2C%22expiry%22%3A%222021-02-15T04%3A04%3A30.838Z%22%2C%22lastVisit%22%3A%222021-01-16T04%3A29%3A26.810Z%22%7D; modelYear=2020; modelName=envision; bodystyle=envision; GMWP_location=country_code=CA,region_code=ON,city=TORONTO,county=,zip=M3H+M3M+M4B+M4C+M4E+M4G+M4H+M4J+M4K+M4L+M4M+M4N+M4P+M4R+M4S+M4T+M4V+M4W+M4X+M4Y+M5A+M5B+M5C+M5E+M5G+M5H+M5J+M5K+M5L+M5M+M5N+M5P+M5R+M5S+M5T+M5V+M5W+M5X+M6A+M6B+M6C+M6E+M6G+M6H+M6J+M6K+M6L+M6M+M6N+M6P+M6R+M6S+M7A+M7Y+M9M+M9N+M9P+M9W; ak_bmsc=48A291F5F6D0D63CA354C3C6DC7EDF8CB81A2C51056000000F6C02606AE12311~pl97jcJ3IzAT8O9RLQ6tcjnj86g046Y401gsRNjElPeEQAa/yVjg/FsPg68QlSgS/qywhoRREqERIKaBxZ1QIb6/q+e48YBrM7wAztjhZ+4FpDWLi4x5OiJZAt2ZjVlpPNg4tbLAzLzVW0KdW+qaCXSRqVVV2cjLXamodUA0/GyyJFbdVG4Pm+zso30OVvVsSkoPsu4IdOOSobe65WX8fBP+6pacArcxKyv5pSDK2G2z4=; bm_sv=D6CA0C93D92D52D22D6A376CD4D22EC3~5qNpbloD1xbTLWodNnCl/RuJR4YMNkNRwIso+jvhCr4BLPg9YIq+P8lHYZVEEpPV7rBRE+2TM0XVd30cZNfvX6CSeuGEanWi5oNQMF2eZ154U2X5ngPB7I+YwUiZcV6FdKtXABcTlhljZDKB9scfJw=='
+  'Cookie': 'CookiePlaceHolder', #cookie is required to run this application
 }
 
 response = requests.request("POST", url, headers=headers, data=payload)
