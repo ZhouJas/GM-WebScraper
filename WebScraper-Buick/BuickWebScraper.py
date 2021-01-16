@@ -19,7 +19,7 @@ headers = {
   'Sec-Fetch-Mode': 'cors',
   'Sec-Fetch-Dest': 'empty',
   'accept-language': 'en-CA,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-  'Cookie': 'CookiePlaceHolder', #cookie is required to run this application
+  'Cookie': 'CookiePlaceHolder', #cookie is required to run this script
 }
 
 response = requests.request("POST", url, headers=headers, data=payload)

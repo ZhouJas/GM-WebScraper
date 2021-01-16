@@ -19,7 +19,7 @@ headers = {
   'Sec-Fetch-Mode': 'cors',
   'Sec-Fetch-Dest': 'empty',
   'accept-language': 'en-CA,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-  'Cookie': 'GMWP_location=country_code=CA,region_code=ON,city=TORONTO,county=,zip=M3H+M3M+M4B+M4C+M4E+M4G+M4H+M4J+M4K+M4L+M4M+M4N+M4P+M4R+M4S+M4T+M4V+M4W+M4X+M4Y+M5A+M5B+M5C+M5E+M5G+M5H+M5J+M5K+M5L+M5M+M5N+M5P+M5R+M5S+M5T+M5V+M5W+M5X+M6A+M6B+M6C+M6E+M6G+M6H+M6J+M6K+M6L+M6M+M6N+M6P+M6R+M6S+M7A+M7Y+M9M+M9N+M9P+M9W; bm_sv=B05ADF0BDC7CA17E9863998C15E807FC~VXuA6mglBQxr9nMmv04iCun4uJ/v5Awk7tP6B97T5FUIAqtFKjaFAADcCKhJ4omX5xkummzOH9v9ykqj59MMy+Bx0wKS+/5Zbm842BSvcBhu2BbfkY4Uc8q4iAK0JZ8Jo7uds26Ljs0VNLoI6KM6s+qvFUwvRwhidWo6aNwif7o=; TSa6897428027=08aac06b63ab2000da0a8f62c3ee2ce545553bedf5d8cf16a3c6614ac9406e727b1a6bdd8db8e7d40897f4f58f113000f8c08be6d0a6f631ca6857f4afc194d3bff1794f9240f52152a0c97b2c616eb52d450aa7f1ffbeaf09fc13e0921b3775; ak_bmsc=DC485E3BCDB2E3A8D521670EE7395EA3D194CC6DC5030000D5630260725A0529~plheiQGmsByI/CB5hqsR4E7ZP0miC9r+nHq/ncbeShaFBqmm9f1cuNNhcPzbCqKjTe6GULK+06Pj7urC/NO5UfO4XSNVWHSIVmtkSxkpXqV76rBJDOXz7QUT9CVXRcR/vfd738KXb+wjwqTVt3uuSh2wc7FU+IQkukNbhhs66RiNJQ9DMK05wGnrwaU7IbVSknXWhEpvkz8o0NR/1ENuG0Gruu+YcArOTMINBCXi6E/cA='
+  'Cookie': 'CookiePlaceHolder', #cookie is required to run this script
 }
 
 response = requests.request("POST", url, headers=headers, data=payload)

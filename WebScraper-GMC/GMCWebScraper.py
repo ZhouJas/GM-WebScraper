@@ -19,7 +19,7 @@ headers = {
   'Sec-Fetch-Mode': 'cors',
   'Sec-Fetch-Dest': 'empty',
   'accept-language': 'en-CA,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-  'Cookie': 'modelYear=2021; formData=; ipe_s=80e2aa88-cad2-1631-7af7-53040f440982; IPE_LandingTime=1610767248179; ipe.35282.pageViewedDay=15; modelName=yukon; bodystyle=yukon; firstEngagement=1; BIGipServerpub-m-wpsegment10-wpx-443-pool=1592949514.64288.0000; re-evaluation=true; ipe.35282.pageViewedCount=2; BIGipServerpub-w-wpsegment10-wpx-443-pool=1733589514.64288.0000; TSa6897428027=08aac06b63ab20007deeb425a5c048cffdaa6a92aad42fa88ae7a0137cc311951f5e1cc658447e5708a2de0ea21130004cf2e8d159e416bb9bac649926ca5dba19c130fd6a56bec335db94a8e81dd19380e831fd86dc1a6e306e7500e6c1113e; ipe_35282_fov=%7B%22numberOfVisits%22%3A1%2C%22sessionId%22%3A%2280e2aa88-cad2-1631-7af7-53040f440982%22%2C%22expiry%22%3A%222021-02-15T03%3A20%3A48.188Z%22%2C%22lastVisit%22%3A%222021-01-16T03%3A46%3A58.574Z%22%7D; GMWP_location=country_code=CA,region_code=ON,city=TORONTO,county=,zip=M3H+M3M+M4B+M4C+M4E+M4G+M4H+M4J+M4K+M4L+M4M+M4N+M4P+M4R+M4S+M4T+M4V+M4W+M4X+M4Y+M5A+M5B+M5C+M5E+M5G+M5H+M5J+M5K+M5L+M5M+M5N+M5P+M5R+M5S+M5T+M5V+M5W+M5X+M6A+M6B+M6C+M6E+M6G+M6H+M6J+M6K+M6L+M6M+M6N+M6P+M6R+M6S+M7A+M7Y+M9M+M9N+M9P+M9W; ak_bmsc=CBC60D9D8B10B388F3E4BDD95E603DC91728BEADB0180000276202609D9BE979~pl46D56WhCd+qX0XzOm1Ow3CwWMY9DKCNWfe0eLkN5sXKbXKyy0sbZYzsSK6iBb7WgL2qJ71nsbQ5tt+c/ekJgVXIrYl6YUKe3kD33UImCagJcbEtk6oxDWDGRFOJV5QNz8uSne3GqnKVO7gqlsIhBwOZLFzw5aYs1kE8Uc9INQASFptf8P+1Tb94/9K2LzZAAbA/xDN71xq/6evJEMNlor1t6m8rmWBm94vpamxYp7QY='
+  'Cookie': 'CookiePlaceHolder', #cookie is required to run this script
 }
 
 response = requests.request("POST", url, headers=headers, data=payload)
