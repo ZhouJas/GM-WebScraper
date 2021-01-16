@@ -1,1 +1,1078 @@
-{"Trims": [{"id": "null", "Trim": "1LT", "Model": "corvette", "Type": "Coupe", "Year": "2021", "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config", "Colors": [{"Color": "Arctic White", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Black", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Torch Red", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Silver Flare Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Ceramic Matrix Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Elkhart Lake Blue Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Shadow Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Zeus Bronze Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Accelerate Yellow Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Rapid Blue", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Sebring Orange Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Red Mist Metallic Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 67898.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "6.2L V8 DI engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "2LT", "Model": "corvette", "Type": "Coupe", "Year": "2021", "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config", "Colors": [{"Color": "Arctic White", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Black", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Torch Red", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Silver Flare Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Ceramic Matrix Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Elkhart Lake Blue Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Shadow Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Zeus Bronze Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Accelerate Yellow Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Rapid Blue", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Sebring Orange Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Red Mist Metallic Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 77798.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "6.2L V8 DI engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "3LT", "Model": "corvette", "Type": "Coupe", "Year": "2021", "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config", "Colors": [{"Color": "Arctic White", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Black", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Torch Red", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Silver Flare Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Ceramic Matrix Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Elkhart Lake Blue Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Shadow Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Zeus Bronze Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Accelerate Yellow Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Rapid Blue", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Sebring Orange Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Red Mist Metallic Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 83398.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "6.2L V8 DI engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "1LT", "Model": "corvette", "Type": "Convertible", "Year": "2021", "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config", "Colors": [{"Color": "Arctic White", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Black", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Torch Red", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Silver Flare Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Ceramic Matrix Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Elkhart Lake Blue Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Shadow Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Zeus Bronze Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Accelerate Yellow Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Rapid Blue", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Sebring Orange Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Red Mist Metallic Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 67898.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "6.2L V8 DI engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "2LT", "Model": "corvette", "Type": "Convertible", "Year": "2021", "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config", "Colors": [{"Color": "Arctic White", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Black", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Torch Red", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Silver Flare Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Ceramic Matrix Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Elkhart Lake Blue Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Shadow Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Zeus Bronze Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Accelerate Yellow Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Rapid Blue", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Sebring Orange Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Red Mist Metallic Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 77798.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "6.2L V8 DI engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "3LT", "Model": "corvette", "Type": "Convertible", "Year": "2021", "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config", "Colors": [{"Color": "Arctic White", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Black", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Torch Red", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Silver Flare Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Ceramic Matrix Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Elkhart Lake Blue Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Shadow Grey Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Zeus Bronze Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Accelerate Yellow Metallic", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Rapid Blue", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Sebring Orange Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Red Mist Metallic Tintcoat", "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 83398.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "6.2L V8 DI engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}]}
+{
+    "Trims": [
+        {
+            "id": "null",
+            "Trim": "1LT",
+            "Model": "corvette",
+            "Type": "Coupe",
+            "Year": "2021",
+            "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config",
+            "Colors": [
+                {
+                    "Color": "Arctic White",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Black",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Torch Red",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Silver Flare Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Ceramic Matrix Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Elkhart Lake Blue Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Shadow Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Zeus Bronze Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Accelerate Yellow Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Rapid Blue",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Sebring Orange Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Red Mist Metallic Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 67898.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "6.2L V8 DI engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "2LT",
+            "Model": "corvette",
+            "Type": "Coupe",
+            "Year": "2021",
+            "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config",
+            "Colors": [
+                {
+                    "Color": "Arctic White",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Black",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Torch Red",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Silver Flare Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Ceramic Matrix Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Elkhart Lake Blue Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Shadow Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Zeus Bronze Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Accelerate Yellow Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Rapid Blue",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Sebring Orange Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Red Mist Metallic Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 77798.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "6.2L V8 DI engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "3LT",
+            "Model": "corvette",
+            "Type": "Coupe",
+            "Year": "2021",
+            "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config",
+            "Colors": [
+                {
+                    "Color": "Arctic White",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Black",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Torch Red",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Silver Flare Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Ceramic Matrix Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Elkhart Lake Blue Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Shadow Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Zeus Bronze Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Accelerate Yellow Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Rapid Blue",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Sebring Orange Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Red Mist Metallic Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 83398.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "6.2L V8 DI engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "1LT",
+            "Model": "corvette",
+            "Type": "Convertible",
+            "Year": "2021",
+            "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config",
+            "Colors": [
+                {
+                    "Color": "Arctic White",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Black",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Torch Red",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Silver Flare Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Ceramic Matrix Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Elkhart Lake Blue Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Shadow Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Zeus Bronze Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Accelerate Yellow Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Rapid Blue",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Sebring Orange Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Red Mist Metallic Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 67898.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "6.2L V8 DI engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "2LT",
+            "Model": "corvette",
+            "Type": "Convertible",
+            "Year": "2021",
+            "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config",
+            "Colors": [
+                {
+                    "Color": "Arctic White",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Black",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Torch Red",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Silver Flare Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Ceramic Matrix Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Elkhart Lake Blue Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Shadow Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Zeus Bronze Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Accelerate Yellow Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Rapid Blue",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Sebring Orange Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Red Mist Metallic Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 77798.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "6.2L V8 DI engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "3LT",
+            "Model": "corvette",
+            "Type": "Convertible",
+            "Year": "2021",
+            "SiteURL": "https://www.chevrolet.ca/byo-vc/client/en/CA/chevrolet/corvette/2021/corvette/config",
+            "Colors": [
+                {
+                    "Color": "Arctic White",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G8G_LT2_M1L_Q8P_XFN_G8G_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Black",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GBA_LT2_M1L_Q8P_XFN_GBA_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Torch Red",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GKZ_LT2_M1L_Q8P_XFN_GKZ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Silver Flare Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GSJ_LT2_M1L_Q8P_XFN_GSJ_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Ceramic Matrix Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G9F_LT2_M1L_Q8P_XFN_G9F_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Elkhart Lake Blue Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GS7_LT2_M1L_Q8P_XFN_GS7_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Shadow Grey Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GJI_LT2_M1L_Q8P_XFN_GJI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Zeus Bronze Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GUI_LT2_M1L_Q8P_XFN_GUI_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Accelerate Yellow Metallic",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GD0_LT2_M1L_Q8P_XFN_GD0_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Rapid Blue",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GMO_LT2_M1L_Q8P_XFN_GMO_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Sebring Orange Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/G26_LT2_M1L_Q8P_XFN_G26_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Red Mist Metallic Tintcoat",
+                    "ImageURL": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2021/1YC07/1YC07__1LT/GPH_LT2_M1L_Q8P_XFN_GPH_AQ9_HTA_IOS_719gmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 83398.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "6.2L V8 DI engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        }
+    ]
+}

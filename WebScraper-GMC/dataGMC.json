@@ -1,1 +1,1308 @@
-{"Trims": [{"id": "null", "Trim": "SLE", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 57998.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "SLE", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 57998.0, "ListFinancing": [], "ListLeasing": [], "isAWD": true, "is2WD": false, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "SLT", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 66098.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "SLT", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 66098.0, "ListFinancing": [], "ListLeasing": [], "isAWD": true, "is2WD": false, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "AT4", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 74698.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "AT4", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 74698.0, "ListFinancing": [], "ListLeasing": [], "isAWD": true, "is2WD": false, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "Denali", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 79798.0, "ListFinancing": [], "ListLeasing": [], "isAWD": false, "is2WD": true, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}, {"id": "null", "Trim": "Denali", "Model": "yukon", "Type": "SUV", "Year": "2021", "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim", "Colors": [{"Color": "Summit White", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Onyx Black", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Dark Sky Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Pearl Beige Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Midnight Blue Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Smokey Quartz Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Satin Steel Metallic", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}, {"Color": "Cayenne Red Tintcoat", "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="}], "ListPrice": 79798.0, "ListFinancing": [], "ListLeasing": [], "isAWD": true, "is2WD": false, "Engine": [{"Description": "5.3L V8 engine", "Displacement": "null", "DisplacementUnit": "L", "Features": "null"}], "FuelEco": "null", "FuelEcoUnit": "L/100km", "Summary": [], "Promotions": "null", "To60": "null", "To60Unit": "null", "Emission": "null", "EmissionUnit": "null", "FuelDelivery": "null", "Power": [{"Description": "0 horsepower", "HorsePower": 0, "HorsePowerUnit": "hp"}], "Torque": [{"Description": "0 lb-ft", "Force": 0, "ForceUnit": "lb-ft"}], "ElectricMotor": "null", "Battery": "null", "Brakes": {"Description": "4-wheel antilock disc brakes", "Type": "null", "BrakeAssist": false, "Features": "null"}, "Suspension": {"Description": "Front MacPherson Strut, Rear Five-Link Independent", "Front": "null", "Rear": "null", "Shocks": false}, "isAuto": true, "isManual": false, "Transmission": ["null"], "Wheels": {"Description": "null", "Options": "null"}, "Steering": "null", "Exhaust": "null", "TractionControl": true, "StabilityControl": true, "Airbags": 0, "ParkDistanceControl": false, "BlindSpotWarning": false, "LaneDepartureWarning": false, "LaneDepartureCorrection": false, "CollisionWarning": false, "CollisionAssist": false, "Alarm": false, "RearviewCamera": false, "Seats": {"Description": "Front Bucket Seats", "Number": 5, "Heated": false, "Adjustable": true, "Material": "null"}, "SteeringWheel": {"Description": "Leather-wrapped steering wheel", "Heated": false, "Material": "null"}, "ClimateControl": false, "EntryAndStart": "null", "Lights": "Halogen headlamps", "Roof": {"Description": "null", "Sunroof": false}, "Mirrors": "null", "Doors": {"Description": "4 doors", "Number": 4}, "Height": 0, "HeightUnit": "mm", "Length": 0, "LengthUnit": "mm", "Width": 0, "WidthUnit": "mm", "HeadRoomAverage": 0, "HeadRoomAverageUnit": "mm", "PassengerVolumne": 0, "PassengerVolumneUnit": "L", "TrunkVolume": 0, "TrunkVolumeUnit": "L", "FuelVol": 0, "FuelVolUnit": "L", "weight": 0, "WeightUnit": "kg", "AppleCarPlay": true, "AndroidAuto": true, "NavigationSystem": false, "Bluetooth": true, "RemoteStarter": false, "USBPort": false, "RemoteKeylessEntry": false, "AuxInput": true, "PowerDoorLocks": false}]}
+{
+    "Trims": [
+        {
+            "id": "null",
+            "Trim": "SLE",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 57998.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "SLE",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 57998.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": true,
+            "is2WD": false,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "SLT",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 66098.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "SLT",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 66098.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": true,
+            "is2WD": false,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "AT4",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 74698.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "AT4",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 74698.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": true,
+            "is2WD": false,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "Denali",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 79798.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": false,
+            "is2WD": true,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        },
+        {
+            "id": "null",
+            "Trim": "Denali",
+            "Model": "yukon",
+            "Type": "SUV",
+            "Year": "2021",
+            "SiteURL": "https://www.gmccanada.ca/byo-vc/client/en/CA/gmc/yukon/2021/yukon/trim",
+            "Colors": [
+                {
+                    "Color": "Summit White",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GAZ_L87_MQC_GU5_RTL_XCI_GAZ_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Onyx Black",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GBA_L87_MQC_GU5_RTL_XCI_GBA_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Dark Sky Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJI_L87_MQC_GU5_RTL_XCI_GJI_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Pearl Beige Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GJW_L87_MQC_GU5_RTL_XCI_GJW_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Midnight Blue Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GLU_L87_MQC_GU5_RTL_XCI_GLU_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Smokey Quartz Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GS6_L87_MQC_GU5_RTL_XCI_GS6_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Satin Steel Metallic",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/G9K_L87_MQC_GU5_RTL_XCI_G9K_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                },
+                {
+                    "Color": "Cayenne Red Tintcoat",
+                    "ImageURL": "https://cgi.gmc.com/mmgprod-us/dynres/prove/image.gen?i=2021/TK10706/TK10706__5SA/GSK_L87_MQC_GU5_RTL_XCI_GSK_A50_H2X_ATN_IOTgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+                }
+            ],
+            "ListPrice": 79798.0,
+            "ListFinancing": [],
+            "ListLeasing": [],
+            "isAWD": true,
+            "is2WD": false,
+            "Engine": [
+                {
+                    "Description": "5.3L V8 engine",
+                    "Displacement": "null",
+                    "DisplacementUnit": "L",
+                    "Features": "null"
+                }
+            ],
+            "FuelEco": "null",
+            "FuelEcoUnit": "L/100km",
+            "Summary": [],
+            "Promotions": "null",
+            "To60": "null",
+            "To60Unit": "null",
+            "Emission": "null",
+            "EmissionUnit": "null",
+            "FuelDelivery": "null",
+            "Power": [
+                {
+                    "Description": "0 horsepower",
+                    "HorsePower": 0,
+                    "HorsePowerUnit": "hp"
+                }
+            ],
+            "Torque": [
+                {
+                    "Description": "0 lb-ft",
+                    "Force": 0,
+                    "ForceUnit": "lb-ft"
+                }
+            ],
+            "ElectricMotor": "null",
+            "Battery": "null",
+            "Brakes": {
+                "Description": "4-wheel antilock disc brakes",
+                "Type": "null",
+                "BrakeAssist": false,
+                "Features": "null"
+            },
+            "Suspension": {
+                "Description": "Front MacPherson Strut, Rear Five-Link Independent",
+                "Front": "null",
+                "Rear": "null",
+                "Shocks": false
+            },
+            "isAuto": true,
+            "isManual": false,
+            "Transmission": [
+                "null"
+            ],
+            "Wheels": {
+                "Description": "null",
+                "Options": "null"
+            },
+            "Steering": "null",
+            "Exhaust": "null",
+            "TractionControl": true,
+            "StabilityControl": true,
+            "Airbags": 0,
+            "ParkDistanceControl": false,
+            "BlindSpotWarning": false,
+            "LaneDepartureWarning": false,
+            "LaneDepartureCorrection": false,
+            "CollisionWarning": false,
+            "CollisionAssist": false,
+            "Alarm": false,
+            "RearviewCamera": false,
+            "Seats": {
+                "Description": "Front Bucket Seats",
+                "Number": 5,
+                "Heated": false,
+                "Adjustable": true,
+                "Material": "null"
+            },
+            "SteeringWheel": {
+                "Description": "Leather-wrapped steering wheel",
+                "Heated": false,
+                "Material": "null"
+            },
+            "ClimateControl": false,
+            "EntryAndStart": "null",
+            "Lights": "Halogen headlamps",
+            "Roof": {
+                "Description": "null",
+                "Sunroof": false
+            },
+            "Mirrors": "null",
+            "Doors": {
+                "Description": "4 doors",
+                "Number": 4
+            },
+            "Height": 0,
+            "HeightUnit": "mm",
+            "Length": 0,
+            "LengthUnit": "mm",
+            "Width": 0,
+            "WidthUnit": "mm",
+            "HeadRoomAverage": 0,
+            "HeadRoomAverageUnit": "mm",
+            "PassengerVolumne": 0,
+            "PassengerVolumneUnit": "L",
+            "TrunkVolume": 0,
+            "TrunkVolumeUnit": "L",
+            "FuelVol": 0,
+            "FuelVolUnit": "L",
+            "weight": 0,
+            "WeightUnit": "kg",
+            "AppleCarPlay": true,
+            "AndroidAuto": true,
+            "NavigationSystem": false,
+            "Bluetooth": true,
+            "RemoteStarter": false,
+            "USBPort": false,
+            "RemoteKeylessEntry": false,
+            "AuxInput": true,
+            "PowerDoorLocks": false
+        }
+    ]
+}
