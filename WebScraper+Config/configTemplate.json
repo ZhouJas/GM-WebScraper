@@ -1,0 +1,19 @@
+{
+    "url": "API Http Request here",
+    "payload": "get from intercepting POST request body",
+    "headers":{
+        "sec-ch-ua": "\"Google Chrome\";v=\"87\", \" Not;A Brand\";v=\"99\", \"Chromium\";v=\"87\"",
+        "sec-ch-ua-mobile": "?0",
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
+        "Content-Type": "application/json; charset=utf-8",
+        "Accept": "*/*",
+        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Mode": "cors",
+        "Sec-Fetch-Dest": "empty",
+        "accept-language": "en-CA,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5",
+        "Cookie": "CookiePlaceHolder"
+    },
+    "siteurl": "Vehicle customization page link",
+    "imageurl": "preview image on vehicle customization page, replace color code (the first sequence of 3 characters/numbers in the chain of 3 characters) with {0}"
+
+}

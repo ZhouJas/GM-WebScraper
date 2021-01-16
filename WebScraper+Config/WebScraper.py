@@ -5,30 +5,18 @@ import json
 import simplejson
 
 # web request initialization
+with open('./config.json') as f:
+  configData = json.load(f)
+url = configData['url']
 
-url = "https://www.cadillaccanada.ca/byo-vc/services/retrieveConfiguration/cadillac/CA/en/na/413287?bodystyle=escalade&carline=escalade&modelyear=2021&postalCode=L1H8P7"
-
-payload="{\"ss\":\"H4sIAAAAAAAAAH2PPQ6CQBCFn4zBRlsvQG2iJqjtusBiwk8IYLiAsbP0AF7Di3kRa50BWbTxFbvvm53MvgEwB24F3OwM53SBoxWk9sOj6/P+4AuiKWhValCy24LSgp2pfZDeGFCZBox7BVL+ko8qA8XrGnTIj+xM9GKh0wzkeR76se4ibCrVsBt/atT1tb/1Xe3cAXi+BQlgQTIMwPkscIgBJJYFWciCLGZB1uoBmEAjQIgIBjESfD390xt0eoxBawEAAA==\"}"
-headers = {
-  'sec-ch-ua': '"Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"',
-  'sec-ch-ua-mobile': '?0',
-  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36',
-  'Content-Type': 'application/json; charset=utf-8',
-  'Accept': '*/*',
-  'Sec-Fetch-Site': 'same-origin',
-  'Sec-Fetch-Mode': 'cors',
-  'Sec-Fetch-Dest': 'empty',
-  'accept-language': 'en-CA,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,en-GB;q=0.6,en-US;q=0.5',
-  'Cookie': 'CookiePlaceHolder', #cookie is required to run this script
-}
-
+payload=configData['payload']
+headers = configData['headers']
+siteurl = configData['siteurl']
+imageurl = configData['imageurl']
+print(headers)
 response = requests.request("POST", url, headers=headers, data=payload)
 
-
 parsedInfo = urlparse(url)
-siteurl = "https://www.cadillaccanada.ca/byo-vc/client/en/CA/cadillac/escalade/2021/escalade/trim"
-colorcode = "GBA"
-imageurl = f"https://cgi.cadillac.com/mmgprod-us/dynres/prove/image.gen?i=2021/6K10706/6K10706__1SC/{colorcode}_L87_MQC_GU5_SMD_{colorcode}_A50_ATN_HGF_IOVgmds2.jpg&v=deg01&std=true&country=US&removeCat="
 data = response.json()
 output = {}
 output['Trims'] = []
@@ -172,12 +160,12 @@ for i in data['config']['OPTIONS']['COLOR']['exterior']:
     for j in i['items']:
         colorcode = j['id']
         
-        imageurl = f"https://cgi.cadillac.com/mmgprod-us/dynres/prove/image.gen?i=2021/6K10706/6K10706__1SC/{colorcode}_L87_MQC_GU5_SMD_{colorcode}_A50_ATN_HGF_IOVgmds2.jpg&v=deg01&std=true&country=US&removeCat="
+        imgurl = imageurl.format(colorcode)
         for k in output['Trims']:
             k['Colors'].append({
                 'Color': j['primaryName'],
-                'ImageURL': imageurl
+                'ImageURL': imgurl
             })
 
-with open('dataCadillac.json', 'w') as outfile:
+with open('output.json', 'w') as outfile:
     json.dump(output, outfile)
