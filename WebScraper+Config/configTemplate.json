@@ -14,6 +14,6 @@
         "Cookie": "CookiePlaceHolder"
     },
     "siteurl": "Vehicle customization page link",
-    "imageurl": "preview image on vehicle customization page, replace color code (the first sequence of 3 characters/numbers in the chain of 3 characters) with {0}"
+    "imageurl": "preview image on vehicle customization page, replace color code (the first sequence of 3 characters/numbers in the chain of 3 characters any that is identical) with {0}"
 
 }
