@@ -1,5 +1,5 @@
 # GM WebScraper
- This is a Python 3.9 Webscraper created to aid my internship data-entry work regarding new vehicles from several GM brands.
+ This is a Python 3.9 Webscraper created to aid my internship data-entry work regarding new vehicle data.
 It autofills the provided template by mimicking the http request the car model customization page sends to the manufacturer's server,
 thereby obtaining in response all required data for the cars and will create an output JSON with the required data.
 * Included in the folders are the python script and a config setting to change which vehicle model data to obtain.
